@@ -1,0 +1,14 @@
+[
+  {
+    "name": "default",
+    "type": "mssql",
+    "host": "172.24.16.67",
+    "port": 1433,
+    "username": "ProductCentral",
+    "password": "FDk@h'g9{s",
+    "database": "ProductCentral",
+    "synchronize": false,
+    "logging": false,
+    "entities": ["src/entity/*.*"]
+  }
+]
